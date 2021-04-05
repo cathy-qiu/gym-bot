@@ -9,8 +9,8 @@ The gym I go to allow members to start booking their gym times at midnight every
 So, I decided to create a bot that does it for me.
 
 ### Tools/Technologies: ###  
-[Selenium WebDriver](https://www.selenium.dev/documentation/en/webdriver/)  
-[Amazon EC2](https://aws.amazon.com/ec2/)
+* [Selenium WebDriver](https://www.selenium.dev/documentation/en/webdriver/)  
+* [Amazon EC2](https://aws.amazon.com/ec2/)
 
 ### How I built it: ###  
 :arrow_right:	I web scraped my gym's website by inspecting its **HTML** elements.  
